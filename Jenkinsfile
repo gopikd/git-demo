@@ -25,7 +25,7 @@ pipeline {
         echo"hh"
         echo "jay"
         echo "jjhat"
-        echo"hai sri11111111"
+        echo"hai sri1111111111"
       }
     }
   }
